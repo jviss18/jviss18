@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jviss18
+- 👋 Hi, I’m @jviss18 Jarad Viss. 
 - 👀 I’m interested in instructional systems design and program management. 
-- 🌱 I’m currently learning at George Mason University in the Instructional Technology and Design Masters program. 
+- 🌱 I’m currently learning at George Mason University Masters program Learning Design and Technology. 
 - 💞️ I’m looking to collaborate on development projects and workshops on how to develop meta tracking in the instergrated multimedia instruciton to use later in product analysis. 
 - 📫 How to reach me jarad.viss@yahoo.com. 
 
